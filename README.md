@@ -1,2 +1,2 @@
 # GameStudioGames
-This holds just the .zip files for all of the games
+This has the official final versions of all games. All of these should be compressed files.
